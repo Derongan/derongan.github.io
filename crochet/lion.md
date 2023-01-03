@@ -1,5 +1,5 @@
 # Lion
-![Lion Profile](/assets/images/crochet/lion_profile.png)
+![Lion Profile](/assets/images/crochet/lion_profile.jpg)
 ## Head
 **White yarn**
 1. 6 x SC in a magic ring (6)
@@ -89,9 +89,10 @@
 ## Tail
 **Yellow yarn**
 1. 4 x SC (4)  
+.  
+.  
 .
-.
-.
+
 17. 4 x SC (4)
 
 ## Tail Fluff (repeat until tail looks bushy)
