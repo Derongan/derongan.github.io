@@ -95,7 +95,8 @@
 <!-- -->
 
 {:start="17"}
-17. 4 x SC (4)
+17. 4 x SC (4)  
+**Sew on to body**
 
 ## Tail Fluff (repeat until tail looks bushy)
 **Brown yarn**
