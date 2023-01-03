@@ -25,7 +25,7 @@
 1. 4 x SC in a magic ring, 1 x CH (4)
 2. 4 x INC, 1 x CH (8)
 3. (1 x SC, INC) x 4, 1 x CH (12)
-4. 12 x reverse SC (crab stitch) (12) 
+4. 12 x reverse SC (crab stitch) (12)  
 **Fasten off/sew onto head**  
 
 
