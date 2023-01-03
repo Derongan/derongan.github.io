@@ -92,7 +92,8 @@
 .  
 .  
 .
-
+<!-- -->
+{:start="17"}
 17. 4 x SC (4)
 
 ## Tail Fluff (repeat until tail looks bushy)
