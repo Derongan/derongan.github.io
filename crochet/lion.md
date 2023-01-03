@@ -73,7 +73,7 @@
 14. 2 x SC, DEC, 5 x SC, DEC, 4 x SC, DEC, 4 x SC, DEC, 4 x SC, DEC, 5 x SC, DEC, 2 x SC  (32)
 15. SC, DEC, SC, DEC, 4 x SC, DEC, SC, DEC, 2 x SC, DEC, SC, DEC, 4 x SC, DEC, SC, DEC, SC (24)
 16. 2 x DEC, 4 x SC, 4 x DEC, 4 x SC, 2 x DEC (16)
-17. 8 x DEC (8)
+17. 8 x DEC (8)  
 **Fasten off/sew shut**
 
 ## Neck
@@ -83,7 +83,7 @@
 2. 3 x SC, (INC, SC) x 4, 3 x SC, DEC-3, 4 x SC, DEC-3 (24)  
 *Inc at throat, dec by crocheting 3 together at where chain joins. This is meant to push the neck out a bit from the body and help hide the chain. Not sure if it works.*
 2. 5 x SC, (DEC) x 4, 6 x SC, 4 x INC, SC (24)  
-*DEC at throat, inc at back of neck. This gives extra fabric to sew at back of neck and makes the throat more clear*
+*DEC at throat, inc at back of neck. This gives extra fabric to sew at back of neck and makes the throat more clear*  
 **Fasten off/sew on to head**
 
 ## Tail
