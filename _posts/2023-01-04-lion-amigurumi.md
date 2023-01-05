@@ -9,6 +9,8 @@ This is a cute lion I designed for my girlfriend's baby nephew. I had already ma
 
 If you decide to make this pattern, I would love it if you could share it on instagram and tag/mention me! My username is [@derongan](https://instagram.com/derongan).
 
+Please do not sell or redistribute this pattern. Feel free to make for personal use or to sell, but please link back to this site if you do the latter.
+
 ## Supplies
 * Yellow yarn (Bernat Baby Blanket in Buttercup)
 * Brown yarn (Bernat Baby Blanket in Baby Sand)
