@@ -1,4 +1,8 @@
-Derongan's Simple Website
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-[Section Word Count Privacy Policy](privacy/section-word-count.md)  
-[Lion Crochet Pattern](crochet/lion.md)
+layout: home
+---
+
+Well, this definitely is a website.
