@@ -1,4 +1,3 @@
-# Lion Amigurumi
 ![Lion Profile](/assets/images/crochet/lion_profile.jpg)
 ## Head
 **White yarn**
