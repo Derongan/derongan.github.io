@@ -1,4 +1,4 @@
-# Lion
+# Lion Amigurumi
 ![Lion Profile](/assets/images/crochet/lion_profile.jpg)
 ## Head
 **White yarn**
@@ -37,8 +37,11 @@
 4. Tie off both ends in loop, hide ends in head.  
 *I like to put the unused end of the first chain through the loop and pull tight to fasten*
 
+![Lion Profile](/assets/images/crochet/lion_face.jpg)
+
 ## Leg (make 4)
-**Yellow yarn**
+**Yellow yarn**  
+*This is what I did, but I think the legs ended up too long. Consider skipping row 5 and 9 or something*
 1. 5 x CH, SC in second CH, 2 x SC, 3 SC in next stitch, 2 x SC, INC (10)
 2. INC, 2 x SC, 3 x INC, 2 x SC, 2 x INC (16)
 3. 16 x SC (16)
@@ -55,7 +58,8 @@
 **Fasten off**
 
 ## Body
-**Yellow yarn**
+**Yellow yarn**  
+*Similar to the legs, I think removing a row or two might be cuter. Row 9 is a good candidate*
 1. 19 x CH, SC in second CH, 16 x SC, 3 x SC in next stitch, 16 x SC, INC (38)
 2. 1 x SC, 3 x SL ST into a leg, 10 x SC, 3 x SL ST into a leg, 3 x SC, 3 x SL ST into a leg, 10 x SC, 3 x SL ST into a leg, 2 x SC (12 x SL, 26 x SC)  
 **Work the next row around the legs, ignoring the SL ST**
@@ -69,7 +73,7 @@
 10. 6 x SC, INC, 2 x SC, DEC, 3 x SC, DEC, 2 x SC, INC, 12 x SC, INC, 2 x SC, DEC, 3 x SC, DEC, 2 x SC, INC, 6 x SC (50)
 11. 50 x SC (50)
 12. 16 x SC, (skip 18) 6 x CH, 16 x SC (38)
-13. 48 x SC (38)
+13. 38 x SC (38)
 14. 2 x SC, DEC, 5 x SC, DEC, 4 x SC, DEC, 4 x SC, DEC, 4 x SC, DEC, 5 x SC, DEC, 2 x SC  (32)
 15. SC, DEC, SC, DEC, 4 x SC, DEC, SC, DEC, 2 x SC, DEC, SC, DEC, 4 x SC, DEC, SC, DEC, SC (24)
 16. 2 x DEC, 4 x SC, 4 x DEC, 4 x SC, 2 x DEC (16)
