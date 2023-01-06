@@ -32,7 +32,7 @@
 **Brown yarn**
 1. Attach to head with chain.
 2. Chain 15 (16 total chains)
-3. Attach to head again with SC
+3. Attach to head again with SC through the same stitch
 4. Tie off both ends in loop, hide ends in head.  
 *I like to put the unused end of the first chain through the loop and pull tight to fasten*
 
