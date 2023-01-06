@@ -7,7 +7,7 @@
 3. (SC, INC) x 6 (18)
 4. 18 x SC (18)
 5. 18 x SC (18)
-6. (2 x BPSP, INC BPSP) x 6 (24)
+6. (2 x BPSC, INC BPSC) x 6 (24)
 7. (3 x SC, INC) x 6 (30)
 8. (30 x SC) x 6 (30)
 9. (30 x SC) x 6 (30)
