@@ -19,4 +19,12 @@ Please do not sell or redistribute this pattern. Feel free to make for personal 
 
 I used size 6 super bulky chenille yarn, but you can use whatever. With this yarn and a 7.0mm hook the lion is around 15″ tall.
 
+## Terminology (US)
+* CH - chain
+* SC - Single Crochet
+* BPSC - Back Post Single Crochet
+* INC - Increase (SC unless otherwise specified)
+* DEC - SC Decrease (I use invisible decreases)
+* DEC-3 - SC Decrease but through three stitches
+
 {% include crochet/lion.md %}
