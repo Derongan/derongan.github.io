@@ -6,3 +6,10 @@ layout: home
 ---
 
 Well, this definitely is a website.
+
+{% crochet %}
+1. 10sc
+2. 10sc
+{% endcrochet %}
+
+{% include pattern.html steps=pattern_test%}

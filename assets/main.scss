@@ -1,0 +1,7 @@
+---
+---
+@import "minima";
+
+li.crochet-step::marker {
+	content: attr(step-no)'. ';
+}

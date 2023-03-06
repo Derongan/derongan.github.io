@@ -1,0 +1,29 @@
+{%- assign steps = include.steps | split: "
+" | compact -%}
+
+<ol class="pattern">
+{%- assign step_num = 0 -%}
+{%- for step in steps -%}
+	{%- assign label = step | split: " " | first -%}
+	{%- assign step_len = step | size -%}
+	{%- assign label_len = label | size -%}
+	{%- assign instruction = step | slice: label_len, step_len -%} 
+	{%- assign label_num = label | times: 1 -%}
+	{%- assign first_char = label | slice: 0 -%}
+
+
+	{%- if label == "*" -%}
+		{%- assign step_num = step_num | plus: 1 -%}
+		{%- include step.html content=instruction row=step_num -%}
+	{%- elsif first_char == "+" -%}
+		{%- capture range -%}
+			{{step_num | plus: 1}}-{{step_num | plus: label_num}}
+		{%- endcapture -%}
+		{%- include step.html content=instruction row=range -%}
+		{%- assign step_num = step_num | plus: label_num -%}
+	{%- elsif label_num > 0 -%}
+		{% assign step_num = label_num %}
+		{%- include step.html content=instruction row=step_num -%}
+	{%- endif -%}
+{%- endfor -%}
+</ol>
