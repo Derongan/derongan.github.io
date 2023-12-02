@@ -44,7 +44,7 @@
 1. 5 x CH, SC in second CH, 2 x SC, 3 SC in next stitch, 2 x SC, INC (10)
 2. INC, 2 x SC, 3 x INC, 2 x SC, 2 x INC (16)
 3. 16 x SC (16)
-4. 5 x SC, CH 4, SC into opposite side, 2 x SC (12)
+4. 5 x SC, CH 4, SC into opposite side, 2 x SC (12) *You should end up with two holes. The following rows work up the leg, leaving the toes open*
 5. 12 x SC (12) 
 6. 12 x SC (12) 
 7. 12 x SC (12) 
@@ -55,6 +55,12 @@
 12. 15 x SC (15)
 13. 15 x SC (15)  
 **Fasten off**
+
+
+**Yellow yarn**
+*Attach to any stitch of the toe opening*
+1. 6x DEC (6)
+**Fasten off/sew shut**
 
 ## Body
 **Yellow yarn**  
