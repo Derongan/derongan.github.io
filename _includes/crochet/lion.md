@@ -57,9 +57,9 @@
 **Fasten off**
 
 
-**Yellow yarn**
+**Yellow yarn**  
 *Attach to any stitch of the toe opening*
-1. 6x DEC (6)
+1. 6x DEC (6)  
 **Fasten off/sew shut**
 
 ## Body
