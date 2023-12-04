@@ -1,4 +1,4 @@
-![Turtle Earings](/assets/images/crochet/turtle_earings.jpg)
+![Turtle Earings](/assets/images/crochet/turtle_earrings.jpg)
 ## Turtle Body 
 **Dark green crochet thread**
 1. 6 x SC in a magic ring (6)
@@ -22,7 +22,7 @@
 ## Front Flipper (make two)
 **Dark green crochet thread**
 1. 9 x CH  
-*If you want to make it an earing, for one of the fins, pull out your hook, attach the earing, and continue crocheting. This will result in the turtle facing sideways off of the head. You can try different attachment styles if you like.
+*If you want to make it an earring, for one of the fins, pull out your hook, attach the earring, and continue crocheting. This will result in the turtle facing sideways off of the head. You can try different attachment styles if you like.
 2. Starting in second stitch from the hook, HDC, HDC DEC, HDC, HDC DEC, 2 x HDC (6)  
 **Fasten off**  
 
@@ -64,8 +64,8 @@
 **Fasten off/sew shut**
 
 
-You are done! Make a second earing if you want a matching set, or just enjoy your new buddy.
+You are done! Make a second earring if you want a matching set, or just enjoy your new buddy.
 
 ![A happy little turtle](/assets/images/crochet/turtle_happy.jpg)
-![A happy little turtle earing](/assets/images/crochet/turtle_earing_held.jpg)
+![A happy little turtle earring](/assets/images/crochet/turtle_earring_held.jpg)
 

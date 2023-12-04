@@ -2,10 +2,10 @@
 layout: post
 title:  "Crochet Sea Turtle Earings"
 date:   2023-12-03 19:30:00 -0800
-categories: crochet amigurumi earing pattern turtle sea
+categories: crochet amigurumi earring pattern turtle sea
 ---
 
-This pattern is intended to be used to make earings. I originally made it while making my mom a gift. It should work just as well as a stand alone plush if you want!
+This pattern is intended to be used to make earrings. I originally made it while making my mom a gift. It should work just as well as a stand alone plush if you want!
 
 If you decide to make this pattern, I would love it if you could share it on instagram and tag/mention me! My username is [@derongan](https://instagram.com/derongan).
 
