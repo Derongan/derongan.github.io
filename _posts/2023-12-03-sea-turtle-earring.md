@@ -15,6 +15,7 @@ Please do not sell or redistribute this pattern. Feel free to make for personal 
 * Brown crochet thread (Aunt Lydia’s Classic Brown)
 * Green crochet thread (Aunt Lydia’s Classic Myrtle Green)
 * Dark Green crochet thread (Aunt Lydia’s Classic Forest Green)
+* Two earring hooks
 * 1.25mm Crochet Hook
 
 I used brown for the shell, green for the undershell, and dark green for the body.
