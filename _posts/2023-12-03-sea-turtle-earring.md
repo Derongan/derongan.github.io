@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crochet Sea Turtle Earings"
+title:  "Crochet Sea Turtle Earrings"
 date:   2023-12-03 19:30:00 -0800
 categories: crochet amigurumi earring pattern turtle sea
 ---
