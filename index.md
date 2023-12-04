@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Well, this definitely is a website.
+Welcome to my derongan's website. I mostly just use this to share crochet patterns and host random stuff for various projects.

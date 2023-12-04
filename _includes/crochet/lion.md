@@ -36,7 +36,7 @@
 4. Tie off both ends in loop, hide ends in head.  
 *I like to put the unused end of the first chain through the loop and pull tight to fasten*
 
-![Lion Profile](/assets/images/crochet/lion_face.jpg)
+![Lion Face](/assets/images/crochet/lion_face.jpg)
 
 ## Leg (make 4)
 **Yellow yarn**  
