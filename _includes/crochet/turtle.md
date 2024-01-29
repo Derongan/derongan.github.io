@@ -12,7 +12,8 @@
 9. 16 x SC (16)
 10. 16 x SC (16)
 11. 16 x SC (16)
-12. 8 x DEC (8)
+12. 8 x DEC (8)  
+*Stuff the body*
 13. 4 x DEC (4)
 14. 4 x SC (4)
 15. 4 x SC (4)  
