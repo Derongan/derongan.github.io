@@ -56,7 +56,7 @@
 ## Belly
 ![Turtle Shell Bottom](/assets/images/crochet/turtle_shell_bottom.jpg)
 **Green crochet thread**
-1. Find the unused back loop of the first HDC on the shell. Starting in the loop next to it (NOT the DC loop) Slst in to attach, then SC in same stitch.  
+1. Find the unused back loop of the last HDC on the shell. Starting in the loop next to it (NOT the DC loop) Slst in to attach, then SC in same stitch.  
 4 x CH, Skip 2, 2 x SC, 4 x CH, Skip 2, SC, 6 x CH, Skip 4, SC, 4 x CH, Skip 2, 2 x SC, 4 x CH, Skip 2, 2 x SC, 4 x CH, Skip 2, SC (36)
 2. *Insert the turtle body. The head should go under the 6 x CH, and each leg/tail should fit under a 4 x CH.*  
 18 x DEC (18)
