@@ -66,7 +66,8 @@
 **Yellow yarn**  
 *Similar to the legs, I think removing a row or two might be cuter. Row 9 is a good candidate*
 1. 19 x CH, SC in second CH, 16 x SC, 3 x SC in next stitch, 16 x SC, INC (38)
-2. 1 x SC, 3 x SL ST into a leg, 10 x SC, 3 x SL ST into a leg, 3 x SC, 3 x SL ST into a leg, 10 x SC, 3 x SL ST into a leg, 2 x SC (12 x SL, 26 x SC)  
+2. 1 x SC, 3 x SL ST into a leg, 10 x SC, 3 x SL ST into a leg, 3 x SC, 3 x SL ST into a leg, 10 x SC, 3 x SL ST into a leg, 2 x SC (38 total stitches, 12 x SL ST in legs, 26 x SC in body)  
+*The slip stitches should go through the inside of the leg and into the body, joining them together*
 **Work the next row around the legs, ignoring the SL ST**
 3. DEC, 10 x SC, DEC, 8 x SC, DEC, 10 x SC, DEC, SC, DEC, 10 x SC, DEC, 8 x SC, DEC, 10 x SC, DEC, SC (66)
 4. (DEC, 8 x SC) x 3, DEC, 1 x SC, (DEC, 8 x SC) x 3, DEC, 1 x SC (58)
